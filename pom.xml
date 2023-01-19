@@ -36,7 +36,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>home2</finalName>
+        <finalName>home</finalName>
     </build>
 
 </project>
